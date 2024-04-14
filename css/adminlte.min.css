@@ -13011,7 +13011,7 @@ body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-m
 body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-header,
 body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-header::before {
     margin-left: 0;
-    min-height: 100vh !important;
+    /* min-height: 100vh !important; */
 }
 
 @media (min-width: 768px) {
