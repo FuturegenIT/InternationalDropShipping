@@ -4755,6 +4755,7 @@ button.inactive {
 
 .passInput ul li {
     font-size: 10px;
+    color: #000;
 }
 
 input::placeholder {
